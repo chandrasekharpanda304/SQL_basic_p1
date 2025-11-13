@@ -136,11 +136,11 @@ GROUP BY payment_method;
 
 ## 📜 Author
 
-👤 Chandrasekhar Panda\
-💼 MBA_Business_analytics, Passionate about Data Analytics, SQL Development, and Business
-Intelligence\
-📧 [chandrasekharpanda304@gmail.com]\
-💼 [https://www.linkedin.com/in/chandrasekhar-panda-2220b735b/]
+**👤 Chandrasekhar Panda** \ 
+💼 MBA Business Analytics | Passionate about Data Analytics, SQL Development & Business Intelligence\
+📧 [chandrasekharpanda304@gmail.com](mailto:chandrasekharpanda304@gmail.com)\
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/chandrasekharpanda)
+
 ------------------------------------------------------------------------
 
 ## ⭐ How to Use
