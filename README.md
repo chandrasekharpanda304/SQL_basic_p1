@@ -136,7 +136,7 @@ GROUP BY payment_method;
 
 ## 📜 Author
 
-**👤 Chandrasekhar Panda** \ 
+**👤 Chandrasekhar Panda**\ 
 💼 MBA Business Analytics | Passionate about Data Analytics, SQL Development & Business Intelligence\
 📧 [chandrasekharpanda304@gmail.com](mailto:chandrasekharpanda304@gmail.com)\
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/chandrasekharpanda)
